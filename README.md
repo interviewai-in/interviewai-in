@@ -1,7 +1,8 @@
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/0a54fffc-4b71-4833-a293-e8dbca852be9" width="600" autoplay loop muted playsinline></video>
+  <img height="720" alt="gemini_generated_video_911c1cb1" src="https://github.com/user-attachments/assets/5ad79559-456c-4151-9c50-9b2f771e8428" />
+" width="600">
 </p>
 
 
